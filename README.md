@@ -62,4 +62,4 @@ multisensor-fusion-autonomous-driving/
 └── figures/                  # Output plots (optional)
 
 ## Advisor
-Dr. Shuo Wu — Assistant Professor, Dept. of ECE, CSU Fresno
+Dr. Shuo Wu - Assistant Professor, Dept. of ECE, CSU Fresno
